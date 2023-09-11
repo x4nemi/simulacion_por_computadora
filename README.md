@@ -8,5 +8,7 @@ En esta práctica hicimos un modelado 3D de un personaje del juego Crossy Roads,
 
 Imágenes del modelo:
 
-<img src="./practica3/practica3_1.png" width="200"/>
-<img src="./practica3/practica3_2.png" width="200"/>
+<p float="left">
+    <img src="./practica3/practica3_1.png" width="200"/>
+    <img src="./practica3/practica3_2.png" width="200"/>
+</p>
