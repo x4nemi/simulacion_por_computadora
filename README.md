@@ -9,8 +9,8 @@ Este repositorio contiene los programas de la materia de Simulación para Comput
 Imágenes del modelo:
 
 <p float="left">
-    <img src="./practica1/practica1_1.png" width="200"/>
-    <img src="./practica1/practica1_2.png" width="200"/>
+    <img src="./practica1_piramide/practica1_1.png" width="200"/>
+    <img src="./practica1_piramide/practica1_2.png" width="200"/>
 </p>
 
 ## Práctica 3
@@ -19,6 +19,6 @@ Imágenes del modelo:
 Imágenes del modelo:
 
 <p float="left">
-    <img src="./practica3/practica3_1.png" width="200"/>
-    <img src="./practica3/practica3_2.png" width="200"/>
+    <img src="./practica3_personaje/practica3_1.png" width="200"/>
+    <img src="./practica3_personaje/practica3_2.png" width="200"/>
 </p>
