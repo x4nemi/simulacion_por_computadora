@@ -8,3 +8,5 @@ Imágenes del modelo:
     <img src="./simulacion.png" width="300"/>
 </p>
 
+https://github.com/x4nemi/simulacion_por_computadora_ximena_garcia/assets/70961966/f4c2a0a9-aa7e-46bd-8028-f68dbcd38d9d
+
